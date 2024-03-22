@@ -1,4 +1,4 @@
-Gemini-GhatBot
+Gemini-GhatBot:
 Welcome to the Gemini-GhatBot repository! Gemini-GhatBot is an innovative console chatbot application that integrates the powerful Gemini-Pro Text to Text Large Language Model (LLM) to provide an engaging and intelligent conversational experience directly from your console. Whether you're looking for quick information, entertainment, or an intelligent chat companion, Gemini-GhatBot is here to converse with you.
 
 Features
